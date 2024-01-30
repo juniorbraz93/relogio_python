@@ -9,7 +9,7 @@
 
 ## 🤔 Sobre
 
-Projeto **Relógio**, projeto feito cm base nos conceitos do relógio.
+Projeto **Relógio**, projeto feito com base nos conceitos de um relógio.
 
 ---
 
@@ -40,6 +40,5 @@ O projeto foi feito utilizando das seguintes tecnologias
 ## 💻 Funcionalidades
 
 - 🏠 Relógio ✅
-
 
 Desenvolvido 🧑‍💻 por Junior Braz
